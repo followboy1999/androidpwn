@@ -6,7 +6,7 @@ Android Pwn De1taCTF BroadcastTest<br>
 
 # OVAA Proof Of Concept
 https://github.com/oversecured/ovaa<br>
-The detailed codes and description or proof of concept<br>
+The detailed POC codes <br>
 
 # List of vulnerabilities
 This section only includes the list of vulnerabilities, without a detailed description or proof of concept. Examples from OVAA will receive detailed examination and analysis on our blog.
