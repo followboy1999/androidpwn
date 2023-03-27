@@ -2,7 +2,7 @@
 # EvilParcel漏洞
 Android Pwn De1taCTF BroadcastTest<br>
 
-#CVE-2020-8913
+# CVE-2020-8913
 
 # CVE-2017-13288
 
