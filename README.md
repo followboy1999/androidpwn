@@ -1,14 +1,12 @@
 # androidpwn
 # EvilParcel漏洞
-CVE-2017-13288<br>
-CVE-2017-13315<br>
 Android Pwn De1taCTF BroadcastTest<br>
 
+#CVE-2020-8913
+
 # CVE-2017-13288
-测试环境 Andoird 8.1 <br>
 
 # CVE-2017-13315
-测试环境 Andoird 8.1 <br>
 
 # OVAA Proof Of Concept
 https://github.com/oversecured/ovaa<br>
